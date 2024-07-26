@@ -1,3 +1,37 @@
+_Link website :
+https://tugastespro.000webhostapp.com/
+
+Roles : karyawan
+username: rivaldopakpahanrivaldo@gmail.com 
+Password: jangandihack
+
+Roles : finance
+username: ucokbanu@gmail.com 
+Password: jangandihack
+
+Roles : direktur 
+username: dimastesting@gmail.com
+Password: jangandihack_
+
+_tampilan login_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/login.png?raw=true)
+_tampilan karyawan melakukan pengajuan_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/pengajuan.jpeg?raw=true)
+_tampilan karyawan status_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/status.png?raw=true)
+_tampilan finance meriksa data_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/finance%20melakuakn%20aktivitas.png?raw=true)
+_tampilan finance approve data_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/jika%20approve%20terkirim%20ke%20manager.png?raw=true)
+_tampilan finance reject data_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/jika%20reject%20kirim%20ke%20karyawan.png?raw=true)
+_tampilan direktur mengirim bukti transfer reject data_
+![alt text](https://github.com/Rivaldo-markus-pakpahan/pengajuan-pembelian-barang/blob/main/public/foto_profil/direktur%20menstransfer.jpeg?raw=true)
+
+
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
